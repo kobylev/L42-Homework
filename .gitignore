@@ -1,0 +1,4 @@
+.agent/
+autoencoder_swap/venv/
+autoencoder_swap/__pycache__/
+*.pyc
